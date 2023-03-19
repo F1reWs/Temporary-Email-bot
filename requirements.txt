@@ -1,0 +1,5 @@
+aiogram
+asyncio
+sql
+requests
+lxml
